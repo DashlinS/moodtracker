@@ -4,7 +4,7 @@ This project is a Mood tracker made using backend technologies. It provides Auth
 
 &emsp;
 
-<img src="" width="700">
+<img src="https://github.com/DashlinS/moodtracker/blob/main/public/image/moodtrackdemo.gif" width="700">
 
 <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Click Here to go to the website!]() -->
 
